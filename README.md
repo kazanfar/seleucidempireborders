@@ -10,3 +10,5 @@ Milestones:
 64 BC
 
 Project was written in July, 2011
+
+[![HitCount](https://hits.dwyl.com/kazanfar/seleucidempireborders.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kazanfar/seleucidempireborders)
