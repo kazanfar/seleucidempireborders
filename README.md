@@ -11,4 +11,4 @@ Milestones:
 
 Project was written in July, 2011
 
-[![HitCount](https://hits.dwyl.com/kazanfar/seleucidempireborders.svg?style=flat-square)](http://hits.dwyl.com/kazanfar/seleucidempireborders)
+[![HitCount](https://hits.dwyl.com/kazanfar/seleucidempireborders.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kazanfar/seleucidempireborders)
