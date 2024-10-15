@@ -10,7 +10,3 @@ Milestones:
 64 BC
 
 Project was written in July, 2011
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m2b1g9qjohgniznvsfhm" alt="trackgit-views" />
-</a>
