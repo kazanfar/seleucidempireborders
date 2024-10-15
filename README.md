@@ -11,4 +11,6 @@ Milestones:
 
 Project was written in July, 2011
 
-[![HitCount](https://hits.dwyl.com/kazanfar/seleucidempireborders.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kazanfar/seleucidempireborders)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m2b1g9qjohgniznvsfhm" alt="trackgit-views" />
+</a>
